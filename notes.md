@@ -14,3 +14,9 @@ Input: 145263 Output: 654321
 
 Input: 123456789 Output: 987654321
 ```
+
+# Podmodoro 1 🍅:
+Driver: Alexandre
+Navigator: Alexandre
+
+1. The function must return an integer in descending order ✅
