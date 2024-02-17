@@ -3,23 +3,14 @@
 **Label**  
 ✅ done 🚧 WIP ❌ ERROR
 
+**Task**
+Your task is to make a function that can take any non-negative integer as an argument and return it with its digits in descending order. Essentially, rearrange the digits to create the highest possible number.
+
 **Example**
-TODO: Your task is to write a function called validSpacing() which checks if a string has valid spacing. The function should return either true or false.
+```
+Input: 42145 Output: 54421
 
-* 'Hello world'   => true
-* ' Hello world'  => false
-* 'Hello world  ' => false
-* 'Hello  world'  => false
-* 'Hello'         => true
+Input: 145263 Output: 654321
 
-Even though there are no spaces, it is still valid because none are needed:
-* 'Helloworld'    => true
-* 'Helloworld '   => false
-* ' '             => false
-* ''              => true
-
-# Podmodoro 1 🍅:
-Driver: Fulano
-Navigator: Ciclano
-
-1. The function must recever a paramether 🚧
+Input: 123456789 Output: 987654321
+```
